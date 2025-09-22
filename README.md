@@ -2,7 +2,7 @@
 
 ## Executive Summary
 This project investigates volatility persistence in major cryptocurrencies  
-(Bitcoin, Ethereum, and Solana) compared to a benchmark equity index (OMXS30).  
+(Bitcoin, Ethereum, and Solana) compared to a benchmark equity index (S&P500).  
 Using GARCH-family models on daily returns from 2018–2025, I estimate  
 conditional volatility, half-lives of volatility shocks, and out-of-sample  
 forecast performance.  
